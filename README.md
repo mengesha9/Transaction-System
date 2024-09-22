@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3 align="center">A Fintech Bank Application</h3>
+  <h3 align="center">A Kifiya Bank Application</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -11,7 +11,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Code Snippets to Copy](#snippets)
 6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
